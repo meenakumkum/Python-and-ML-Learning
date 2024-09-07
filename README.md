@@ -71,7 +71,8 @@ This project focuses on the comprehensive analysis of ECG data, sourced from the
 
 
 
-**Project Impact**
+**Project Impact**:
+
 This project enhances diagnostic accuracy by leveraging machine learning to classify heart ailments based on ECG data. The insights gained from feature correlation and heart rate distribution have the potential to improve early detection and treatment strategies. By identifying diagnostic markers and exploring the interactions between ECG features, the project contributes to the field of personalized medicine and cardiology, leading to more targeted healthcare solutions.
 
 
@@ -86,17 +87,19 @@ This project enhances diagnostic accuracy by leveraging machine learning to clas
 
 
 
-**Results**
+**Results**:
 
 **The final result gives us that the accuracy of our model is 1.0 .**
 
 
 
-**Conclusion**
+**Conclusion**:
 By utilising ECG data analysis, this study advances to the knowledge of heart illnesses. The observed ECG features have the potential to function as diagnostic markers, assisting in disease distinction. Furthermore, insights from feature interactions and BPM distributions provide vital information for enhanced cardiac diagnosis and treatment options.
 
 
 
-**CONTRIBUTORS** 
+**CONTRIBUTORS**: 
+
 Manali Kumari-manali104btcse22@igdtuw.ac.in
+
 Bhakti Goel-bhakti011btece22@igdtuw.ac.in
