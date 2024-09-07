@@ -9,6 +9,7 @@
 Cardiovascular diseases (CVDs) pose a major threat to global health, demanding timely diagnosis and treatment. Electrocardiograms (ECGs) are crucial in assessing cardiac health, but analyzing the signals accurately remains challenging. The project aims to develop a machine learning-based system to classify various heart ailments using ECG data. By analyzing ECG signal patterns, this system can help in improving the diagnosis of different heart conditions.
 
 
+
 **Project Overview**  
 
 This project focuses on the comprehensive analysis of ECG data, sourced from the "ECG of Cardiac Ailments Dataset" (Kaggle). The primary goals include:
@@ -69,8 +70,10 @@ This project focuses on the comprehensive analysis of ECG data, sourced from the
   **Sentiment Analysis**: Implementing Naive Bayes for sentiment analysis to categorize posts or comments as positive, negative, or neutral.
 
 
+
 **Project Impact**
 This project enhances diagnostic accuracy by leveraging machine learning to classify heart ailments based on ECG data. The insights gained from feature correlation and heart rate distribution have the potential to improve early detection and treatment strategies. By identifying diagnostic markers and exploring the interactions between ECG features, the project contributes to the field of personalized medicine and cardiology, leading to more targeted healthcare solutions.
+
 
 
 **Technologies Used**:
@@ -82,13 +85,16 @@ This project enhances diagnostic accuracy by leveraging machine learning to clas
 **Tools**: colab Notebook
 
 
+
 **Results**
 
 **The final result gives us that the accuracy of our model is 1.0 .**
 
 
+
 **Conclusion**
 By utilising ECG data analysis, this study advances to the knowledge of heart illnesses. The observed ECG features have the potential to function as diagnostic markers, assisting in disease distinction. Furthermore, insights from feature interactions and BPM distributions provide vital information for enhanced cardiac diagnosis and treatment options.
+
 
 
 **CONTRIBUTORS** 
